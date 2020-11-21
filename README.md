@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [ichiro](ichiro.its.ac.id)
+- 🔭 I’m currently working on [ichiro](http://ichiro.its.ac.id)
 - 🌱 I’m currently learning everything that I interested in
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/dafaberlian/)
 - 😄 Pronouns: ...
