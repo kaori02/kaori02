@@ -1,4 +1,1 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning everything that I interested in
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/dafaberlian/)
+[![kaori02's github stats](https://github-readme-stats.vercel.app/api?username=kaori02)](https://github.com/anuraghazra/github-readme-stats)
